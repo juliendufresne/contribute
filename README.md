@@ -10,8 +10,13 @@ projects. You need to specify a common way of doing things and share this to all
 This repository tries to achieve this by giving some rules to follow when you want to create or contribute to a project.  
 Every developers needs to be aware of this repository so every project must reference it in their README.md file.
 
-Rules
------
+Generic rules
+-------------
+
+- [Create a good README file](https://github.com/noffle/art-of-readme)
+
+Language specific rules
+-----------------------
 
 Contributions and tools may vary depending on the language used. For instance, you can not use a coding style for both
 ruby and JavaScript. So we split this guide according to the language the developer used:
